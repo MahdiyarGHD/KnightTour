@@ -28,11 +28,11 @@
 
 To use this project, you will need to change the following variables to your app.php file
 
-`// board size
+`// board size` <br>
 `$x_size = 12; `
 `$y_size = 12;`
   
-`// Knight's start position`
+`// Knight's start position` <br>
 `$knightPos = ['y' => 1, 'x' => 1];`
 
 
