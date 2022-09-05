@@ -7,7 +7,7 @@
     A knight's tour problem solver using "Warnsdorff's Rule"
   </p>
   
-  
+  </div>
 <br />
   
 
