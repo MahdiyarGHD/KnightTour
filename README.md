@@ -29,7 +29,7 @@
 To use this project, you will need to change the following variables to your app.php file
 
 `// board size` <br>
-`$x_size = 12; `
+`$x_size = 12; ` <br>
 `$y_size = 12;`
   
 `// Knight's start position` <br>
