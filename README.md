@@ -4,7 +4,7 @@
   <h1>Knight's tour problem solver</h1>
   
   <p>
-    An awesome README template for your projects! 
+    A knight's tour problem solver using "Warnsdorff's Rule"
   </p>
   
   
