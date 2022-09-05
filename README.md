@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./" alt="logo" width="200" height="auto" />
+  <img src="./img/chess-pieace.png" alt="logo" width="200" height="auto" />
   <h1>Knight's tour problem solver</h1>
   
   <p>
