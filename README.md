@@ -55,9 +55,9 @@ To run this project, run
 <!-- Contact -->
 ## :handshake: Contact
 
-[@MahdiyarDev](https://t.me/MahdiyarDev)
+ - [@MahdiyarDev](https://t.me/MahdiyarDev)
 
-[https://github.com/MahdiyarGHD/KnightTour](https://github.com/MahdiyarGHD/KnightTour)
+ - [https://github.com/MahdiyarGHD/KnightTour](https://github.com/MahdiyarGHD/KnightTour)
 
 
 <!-- Acknowledgments -->
