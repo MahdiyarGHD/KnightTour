@@ -4,7 +4,7 @@
   <h1>Knight's tour problem solver</h1>
   
   <p>
-    A knight's tour problem solver using "Warnsdorff's Rule"
+    A knight's tour problem solver using "Warnsdorff's Rule" - [https://vrgl.ir/IB9LJ](https://vrgl.ir/IB9LJ)
   </p>
   
   </div>
