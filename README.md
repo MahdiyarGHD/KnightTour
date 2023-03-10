@@ -26,7 +26,7 @@
 <!-- Env Variables -->
 ### :key: Basic Variables
 
-To use this project, you will need to change the following variables to your app.php file
+To use this project, you'll need to change the following variables in your app.php file
 
 `// board size` <br>
 `$x_size = 12; ` <br>
